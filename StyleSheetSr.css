@@ -1,0 +1,159 @@
+﻿.bg{
+z-index:-3;
+width:1314px;
+height:611px;
+opacity:0.85;
+position:fixed;
+left:0;
+top:0;
+}
+.gk{
+	left:58px;
+	top: 313px;
+	position:absolute;
+	z-index:2;
+    background-color:#d9d9d9;
+	font-size:23pt;
+	text-align:center;
+	position:fixed;
+}
+.lb{
+	left:266px;
+	top:98px;
+	position:absolute;
+	z-index:2;
+    background-color:#d9d9d9;
+	font-size:23pt;
+	text-align:center;
+	position:fixed;
+}
+.lcb{
+	left:266px;
+	top:239px;
+	position:absolute;
+	z-index:2;
+    background-color:#d9d9d9;
+	font-size:23pt;
+	text-align:center;
+	position:fixed;
+}
+.rcb{
+	left:270px;
+	top:422px;
+	position:absolute;
+	z-index:2;
+    background-color:#d9d9d9;
+	font-size:23pt;
+	text-align:center;
+	position:fixed;
+}
+.rb{
+	left:278px;
+	top:568px;
+	position:absolute;
+	z-index:2;
+    background-color:#d9d9d9;
+	font-size:23pt;
+	text-align:center;
+	position:fixed;
+}
+.rcm{
+	left:711px;
+	top:470px;
+	position:absolute;
+	z-index:2;
+    background-color:#d9d9d9;
+	font-size:23pt;
+	text-align:center;
+	position:fixed;
+}
+.ccm{
+	left:703px;
+	top:326px;
+	position:absolute;
+	z-index:2;
+    background-color:#d9d9d9;
+	font-size:23pt;
+	text-align:center;
+	position:fixed;
+}
+.lcm{
+	left:703px;
+	top:189px;
+	position:absolute;
+	z-index:2;
+    background-color:#d9d9d9;
+	font-size:23pt;
+	text-align:center;
+	position:fixed;
+}
+.rw{
+	left:1048px;
+	top:532px;
+	position:absolute;
+	z-index:2;
+    background-color:#d9d9d9;
+    font-size:23pt;
+	text-align:center;
+	position:fixed;
+}
+.lw{
+	left:1069px;
+	top:109px;
+	position:absolute;
+	z-index:2;
+    background-color:#d9d9d9;
+	font-size:23pt;
+	text-align:center;
+	position:fixed;
+}
+.s{
+	right:94px;
+	top: 314px;
+	position:absolute;
+	z-index:2;
+	background-color:#d9d9d9;
+	font-size:23pt;
+	text-align:center;
+	font-color:#e6b800;
+	position:fixed;
+}
+.submitd{
+	bottom:35px;
+	left:543px;
+	position:absolute;
+	font-size:17pt;
+}
+.submitd2{
+	bottom:0;
+	left:543px;
+	position:absolute;
+	font-size:14pt;
+}
+span{
+	color: #cc9900;
+}
+.navigation{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #805500;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #ffd633;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+color:white;
+  background-color: #333;
+}
+ 
